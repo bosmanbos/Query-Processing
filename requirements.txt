@@ -1,0 +1,8 @@
+aiohttp==3.8.4
+asyncio==3.4.3
+colorama==0.4.6
+openai==0.27.0
+python-dotenv==0.19.2
+tenacity==8.2.2
+requests==2.26.0
+
