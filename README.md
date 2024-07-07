@@ -15,7 +15,7 @@ This project is an advanced AI-powered query processing system that decomposes c
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-query-processing.git
+   git clone https://github.com/bosmanbos/ai-query-processing.git
    cd ai-query-processing
    ```
 
