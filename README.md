@@ -34,7 +34,7 @@ This project is an advanced AI-powered query processing system that decomposes c
 
 4. Run the main script:
    ```
-   python main.py
+   python ./src/main.py
    ```
 
 ## Usage
